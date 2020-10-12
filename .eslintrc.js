@@ -10,6 +10,7 @@ module.exports = {
         "prettier",
         "prettier/@typescript-eslint",
         "prettier/react",
+        "react-app",
     ],
     rules: {
         "@typescript-eslint/no-explicit-any": "off",
