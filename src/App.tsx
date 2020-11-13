@@ -13,7 +13,7 @@ function App(): any {
                     <div className="logo"></div>
                     <Menu theme="dark" mode="horizontal">
                         <Menu.Item key="1">About Me</Menu.Item>
-                        <Menu.Item key="2">Apply Now</Menu.Item>
+                        <Menu.Item key="2">Book A Call</Menu.Item>
                         <Menu.Item key="3">Contact Me</Menu.Item>
                     </Menu>
                 </Header>
